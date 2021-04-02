@@ -14,7 +14,7 @@ Common Ancestor and print its value.
 ---
 
 ## Problem three (3) Runtime and Memory requirements:
-**_Problem 3 is a binary tree problem. Find the Lowest Common Ancestor in Binary Tree_**
+**_Problem 3 is a binary tree problem._**
 
 ### Runtime Complexity: ```O(n)```.
 The above solution’s time complexity is ```O(n)``` as the method does a simple tree traversal in a bottom-up fashion. 
