@@ -1,4 +1,3 @@
-# Python program to find LCA of n1 and n2 using one
 class Node:
     def __init__(self, key):
         self.key = key
