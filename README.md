@@ -1,6 +1,6 @@
-# BongoBD code-test
+# Bongo test
 ___
-### There are three problems:
+### Problems:
 
 1. Write the following function’s body. A nested dictionary is passed as parameter. You need to
 print all keys with their depth.
