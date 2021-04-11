@@ -1,5 +1,3 @@
-# Bongo test
-___
 ### Problems:
 
 1. Write the following function’s body. A nested dictionary is passed as parameter. You need to
